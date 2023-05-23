@@ -47,6 +47,8 @@
         "iomanip": "cpp",
         "xlocmon": "cpp",
         "xloctime": "cpp",
-        "numbers": "cpp"
+        "numbers": "cpp",
+        "algorithm": "cpp",
+        "optional": "cpp"
     }
 }
