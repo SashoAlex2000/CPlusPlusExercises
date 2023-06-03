@@ -49,6 +49,13 @@
         "xloctime": "cpp",
         "numbers": "cpp",
         "algorithm": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "deque": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "sstream": "cpp",
+        "stack": "cpp",
+        "vector": "cpp",
+        "queue": "cpp"
     }
 }
